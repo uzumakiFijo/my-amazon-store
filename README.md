@@ -1,2 +1,2 @@
-# my-amazon-store
+# mystore
 My Amazon Associates Product Page
